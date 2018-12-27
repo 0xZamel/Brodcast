@@ -28,4 +28,4 @@ if(message.content.split(' ')[0] == '*bc') {
         });
     }
 })
-client.login("5LbccHcdyL9sJSPWkvcWRJOdeADHnQ4X");
+client.login("NTIyNzQ2MjgxNjU5OTkwMDE2.DwY6IQ.tO5iLPJLot9oOyscaWbWHUb4zZw");
